@@ -7,7 +7,7 @@ public class Task09 {
        double factsum = 1;
        double n = 0;
         Random rand = new Random();
-        int x = rand.nextInt(111);
+        int x = rand.nextInt(100);
         System.out.println("Число" + " " + x);
 
         while (x > 0) {

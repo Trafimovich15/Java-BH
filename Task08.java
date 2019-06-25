@@ -2,6 +2,7 @@ package by.trafimovich.lesson2;
 
 import java.util.Random;
 
+
 public class Task08 {
     public static void main(String[] args) {
         Random rand = new Random();
